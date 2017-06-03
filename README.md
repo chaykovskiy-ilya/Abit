@@ -1,2 +1,2 @@
 # Abit
-Application for abiturients
+Android application for abiturients from Russia.
